@@ -1,0 +1,12 @@
+{
+  "name": "shira_amar_aqua_security",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interview Exercise",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "shira amar",
+  "license": "ISC"
+}
